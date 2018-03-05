@@ -1,0 +1,9 @@
+<application>
+  <component name="ParameterNameHintsSettings">
+    <blacklists>
+      <blacklist language="TypeScript JSX">
+        <added pattern="createSelector(selector1,selector2,selector3,combiner)" />
+      </blacklist>
+    </blacklists>
+  </component>
+</application>

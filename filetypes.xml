@@ -1,0 +1,13 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <extensionMap>
+      <mapping pattern="111" type="PLAIN_TEXT" />
+      <mapping pattern="nn" type="PLAIN_TEXT" />
+      <mapping pattern="qr-transfer.js" type="PLAIN_TEXT" />
+      <mapping ext="eot" type="PLAIN_TEXT" />
+      <mapping ext="woff" type="PLAIN_TEXT" />
+      <mapping pattern="getMobileOperatorForModal" type="TypeScript" />
+      <mapping pattern="lightCards" type="TypeScript JSX" />
+    </extensionMap>
+  </component>
+</application>
