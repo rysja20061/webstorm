@@ -10,6 +10,7 @@
       <mapping ext="ta" type="PLAIN_TEXT" />
       <mapping ext="ttf" type="PLAIN_TEXT" />
       <mapping ext="tsa" type="PLAIN_TEXT" />
+      <mapping pattern="ScenarioClear" type="TypeScript" />
       <mapping pattern="inputDelete" type="TypeScript" />
       <mapping pattern="getMobileOperatorForModal" type="TypeScript" />
       <mapping pattern="lightCards" type="TypeScript JSX" />
