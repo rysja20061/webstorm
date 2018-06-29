@@ -14,9 +14,8 @@
       <mapping pattern="inputDelete" type="TypeScript" />
       <mapping pattern="getMobileOperatorForModal" type="TypeScript" />
       <mapping pattern="PinPad" type="TypeScript" />
-      <mapping ext="tsx" type="TypeScript" />
+      <mapping ext="tsxdvg" type="TypeScript" />
       <mapping pattern="lightCards" type="TypeScript JSX" />
-      <removed_mapping ext="tsx" type="TypeScript JSX" />
     </extensionMap>
   </component>
 </application>
