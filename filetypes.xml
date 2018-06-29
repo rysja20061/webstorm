@@ -13,6 +13,7 @@
       <mapping pattern="ScenarioClear" type="TypeScript" />
       <mapping pattern="inputDelete" type="TypeScript" />
       <mapping pattern="getMobileOperatorForModal" type="TypeScript" />
+      <mapping pattern="PinPad" type="TypeScript" />
       <mapping pattern="lightCards" type="TypeScript JSX" />
     </extensionMap>
   </component>
