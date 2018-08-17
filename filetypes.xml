@@ -8,6 +8,7 @@
       <mapping ext="mp4" type="PLAIN_TEXT" />
       <mapping ext="woff" type="PLAIN_TEXT" />
       <mapping ext="ta" type="PLAIN_TEXT" />
+      <mapping ext="webm" type="PLAIN_TEXT" />
       <mapping ext="ttf" type="PLAIN_TEXT" />
       <mapping ext="tsa" type="PLAIN_TEXT" />
       <mapping pattern="ScenarioClear" type="TypeScript" />
