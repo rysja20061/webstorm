@@ -11,6 +11,7 @@
       <mapping ext="webm" type="PLAIN_TEXT" />
       <mapping ext="ttf" type="PLAIN_TEXT" />
       <mapping ext="tsa" type="PLAIN_TEXT" />
+      <mapping ext="otf" type="PLAIN_TEXT" />
       <mapping pattern="ScenarioClear" type="TypeScript" />
       <mapping pattern="inputDelete" type="TypeScript" />
       <mapping pattern="getMobileOperatorForModal" type="TypeScript" />
